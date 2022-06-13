@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:[Live Site](https://happi89.github.io/animated-navigation/)
+- Live Site URL: [Live Site](https://happi89.github.io/animated-navigation/)
 
 ## My process
 
@@ -41,4 +41,4 @@ I might combine this and my other projects light/dark mode and animated template
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/animation) - This helped me for understanding and using animations. I really liked this pattern and will use it going forward.
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation) - This helped me for understanding and using animations. I really liked this pattern and will use it going forward.
